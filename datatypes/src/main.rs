@@ -15,4 +15,8 @@ let b:bool=true;
 println!("the value of f is {} and b is {}",f,b);
 
     println!("the value of z and i is {} and {}",z,i);
+
+//characters
+let a="edureka";
+println!("hello from {}",a);
 }
